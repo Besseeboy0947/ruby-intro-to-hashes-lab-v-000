@@ -4,7 +4,7 @@ return {}
 end
 
 def actor
-  {}
+actor = {:name =>""}
 
 end
 
