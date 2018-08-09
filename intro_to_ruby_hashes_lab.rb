@@ -4,8 +4,7 @@ return {}
 end
 
 def actor
-actor = {:name =>""}
-
+actor = {:name =>"Dwayne The Rock Johnson"}
 end
 
 def monopoly
